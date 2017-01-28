@@ -15,6 +15,14 @@ a:visited{
 color: #FFFFFF; 
 }
 
+a:link{
+color: #FFFFFF; 
+}
+
+a:hover{
+color: rgb(77,0,200);
+}
+
 h3 {
 
 font-family: press_start;
